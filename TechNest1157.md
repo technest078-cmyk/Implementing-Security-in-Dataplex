@@ -2,6 +2,13 @@
 
 
 ###  Lab Solution 
+---
+
+## ⚡ Usage
+1.Open Google Cloud Shell
+
+2.Copy & run this command:
+
 
 ---
 ### Copy and run the below commands in Cloud Shell:
