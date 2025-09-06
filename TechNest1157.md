@@ -1,7 +1,7 @@
 ###  Lab Link: [Implementing Security in Dataplex - GSP1157](https://www.cloudskillsboost.google/focuses/67213?parent=catalog)
 
 
-###  Lab Solution 
+###  Lab Solution :
 ---
 
 ## 🚀 Quick Launch
