@@ -6,9 +6,9 @@
 ### 🚨Copy and run the below commands in Cloud Shell:
 
 ```
-curl -LO raw.githubusercontent.com/technest078-cmyk/Google-Cloud-Skills-Boost/master/Implementing%20Security%20in%20Dataplex/TechNest1157.sh
+curl -sSL https://raw.githubusercontent.com/technest078-cmyk/Implementing-Security-in-Dataplex/main/TechNest1157.sh | bash
 sudo chmod +x TechNest1157.sh
-./TechNest1157.sh
+
 ```
 
 ---
