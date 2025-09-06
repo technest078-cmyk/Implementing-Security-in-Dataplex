@@ -4,14 +4,10 @@
 ###  Lab Solution 
 ---
 
-## ⚡ Usage
+## 🚀 Quick Launch
 1.Open Google Cloud Shell
 
 2.Copy & run this command:
-
-
----
-### Copy and run the below commands in Cloud Shell:
 
 ```
 curl -sSL https://raw.githubusercontent.com/technest078-cmyk/Implementing-Security-in-Dataplex/main/TechNest1157.sh | bash
