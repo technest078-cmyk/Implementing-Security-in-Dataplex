@@ -1,10 +1,10 @@
-### 💡 Lab Link: [Implementing Security in Dataplex - GSP1157](https://www.cloudskillsboost.google/focuses/67213?parent=catalog)
+###  Lab Link: [Implementing Security in Dataplex - GSP1157](https://www.cloudskillsboost.google/focuses/67213?parent=catalog)
 
 
-### 🚀 Lab Solution 
+###  Lab Solution 
 
 ---
-### 🚨Copy and run the below commands in Cloud Shell:
+### Copy and run the below commands in Cloud Shell:
 
 ```
 curl -sSL https://raw.githubusercontent.com/technest078-cmyk/Implementing-Security-in-Dataplex/main/TechNest1157.sh | bash
