@@ -1,7 +1,7 @@
-###  Lab Link: [Implementing Security in Dataplex - GSP1157](https://www.cloudskillsboost.google/focuses/67213?parent=catalog)
+###  🎯Lab Link: [Implementing Security in Dataplex - GSP1157](https://www.cloudskillsboost.google/focuses/67213?parent=catalog)
 
 
-###  Lab Solution :
+### 🔒Lab Solution :
 ---
 
 ## 🚀 Quick Launch
@@ -17,8 +17,8 @@ sudo chmod +x TechNest1157.sh
 
 ---
 
-### Mission completed successfully.  
-Your consistency is your superpower — every script run is a step toward mastery.  
+### 🏆Mission completed successfully! 
+🔥Your consistency is your superpower — every script run is a step toward mastery.🌟  
 Proud moment, Cloud Builder! 🎊  
 ---
 
