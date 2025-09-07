@@ -12,6 +12,14 @@
 ```
 curl -sSL https://raw.githubusercontent.com/technest078-cmyk/Implementing-Security-in-Dataplex/main/TechNest1157.sh | bash
 sudo chmod +x TechNest1157.sh
+# Download the script
+curl -Lo TechNest1157.sh https://raw.githubusercontent.com/technest078-cmyk/Implementing-Security-in-Dataplex/main/TechNest1157.sh  
+
+# Give execute permission
+chmod +x TechNest1157.sh  
+
+# Run the script
+./TechNest1157.sh
 
 ```
 
